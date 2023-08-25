@@ -8,8 +8,9 @@ Motor Control Program of TIANKONGRC Digital Servo (TD-8120MG)
 4. Connect 3 cables to M5Stack Core2 (+/- and signal G32 pin)
 5. The motor rotates CW & CCW changing it's velocity.
 
--
-This is the same Japanese sentence.
+=
+
+This is the same Japanese sentence of above.
 
 TIANKONGRCデジタルサーボ (TD-8120MG)のモーター制御プログラムです
 
@@ -22,4 +23,5 @@ TIANKONGRCデジタルサーボ (TD-8120MG)のモーター制御プログラム�
 
 
 cf(1). https://dev.classmethod.jp/articles/m5stack-core2-for-aws-arduino-pwm-sg90/
+
 cf(2). https://logikara.blog/m5stack-lcd-setting/
