@@ -4,7 +4,7 @@ Motor Control Program of TIANKONGRC Digital Servo (TD-8120MG)
 
 one_motor_control.cpp is for controling 1 motor.
 
-three_motor_control.cpp is for controling 3 motor.
+three_motor_control.cpp is for controling 3 motors.
 
 1. Start VS Code and PlatformIO
 
@@ -17,7 +17,7 @@ three_motor_control.cpp is for controling 3 motor.
 
 4.2. (For three_motor_control.cpp) Connect 5+ cables to M5Stack Core2 (+/- and signal G32, G33, G27 pin). External power is needed.
 
-5. The motor rotates CW & CCW changing it's velocity.
+5. Write the program to the M5Stack and the motor rotates CW & CCW changing it's velocity.
 
 =
 
@@ -40,7 +40,7 @@ three_motor_control.cpp は3個のモーター制御用です。
 
 4.2. (three_motor_control.cpp の場合) 5本以上のケーブルをM5Stack Core2に接続 (+と-、G 32、G 33、G 27ピンへの信号線) 外部電源が必要です
 
-5. モーターが速度を変えながら、時計回りと反時計回りに回る
+5. M5Stack にプログラムを書き込むと、モーターが速度を変えながら、時計回りと反時計回りに回転します
 
 
 
