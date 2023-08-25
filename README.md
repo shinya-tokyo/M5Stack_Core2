@@ -31,7 +31,7 @@ three_motor_control.cpp は3個のモーター制御用です。
 
 1. ビジュアルスタジオ・コードとPlatformIOを起動
 
-2. 「M5Core2」と「LovyanGFX」を追加
+2. 「M5Core2」と「LovyanGFX」ライブラリーを追加
 
 3. 下記コード、それぞれのプログラムを「./src/main.cpp」に追加
    * one_motor_control.cpp か three_motor_control.cpp
