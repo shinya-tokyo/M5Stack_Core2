@@ -36,7 +36,7 @@ three_motor_control.cpp は3個のモーター制御用です。
 3. 下記コード、それぞれのプログラムを「./src/main.cpp」に追加
    * one_motor_control.cpp か three_motor_control.cpp
      
-4.1. (one_motor_control.cpp の場合) 3本のケーブルをM5Stack Core2に接続 (+と-、G 32、G 33、G 27ピンへの信号線)
+4.1. (one_motor_control.cpp の場合) 3本のケーブルをM5Stack Core2に接続 (+と-、G 32ピンへの信号線)
 
 4.2. (three_motor_control.cpp の場合) 5本以上のケーブルをM5Stack Core2に接続 (+と-、G 32、G 33、G 27ピンへの信号線) 外部電源が必要です
 
