@@ -1,4 +1,4 @@
-# M5Stack Core2 Motor Control Program
+# M5Stack Core2 TD-8120MG Motor Control Program
 
 Motor Control Program of TIANKONGRC Digital Servo (TD-8120MG)
 
