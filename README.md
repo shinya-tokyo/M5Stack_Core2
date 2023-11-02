@@ -48,4 +48,6 @@ cf(1). https://dev.classmethod.jp/articles/m5stack-core2-for-aws-arduino-pwm-sg9
 
 cf(2). https://logikara.blog/m5stack-lcd-setting/
 
+(c) Shinya TAKEUCHI
+
 license BSD-2-Clause
