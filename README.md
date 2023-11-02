@@ -47,3 +47,5 @@ three_motor_control.cpp は3個のモーター制御用です。
 cf(1). https://dev.classmethod.jp/articles/m5stack-core2-for-aws-arduino-pwm-sg90/
 
 cf(2). https://logikara.blog/m5stack-lcd-setting/
+
+license BSD-4-Clause
